@@ -7,8 +7,6 @@ Pacman Clock
 This is the Arduino code for 0miker0's Pong Clock.
 It can be purchased at [Tindie](https://www.tindie.com/products/miker/pongclock-complete-kit/ "Pong Clock Complete Kit").
 
-![Pong Clock](https://sites.google.com/site/0miker0/_/rsrc/1378317054480/pongclock/photo%201.JPG?height=293&width=400)
-
 Schematics and further details of the hardware can be found at his website: [0miker0](https://sites.google.com/site/0miker0/pongclock)
 
 Installing
